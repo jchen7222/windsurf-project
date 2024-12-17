@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/windsurf-project/static/css/main.a083e331.css",
+    "main.js": "/windsurf-project/static/js/main.e2ff5fa4.js",
+    "index.html": "/windsurf-project/index.html",
+    "main.a083e331.css.map": "/windsurf-project/static/css/main.a083e331.css.map",
+    "main.e2ff5fa4.js.map": "/windsurf-project/static/js/main.e2ff5fa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a083e331.css",
+    "static/js/main.e2ff5fa4.js"
+  ]
+}
